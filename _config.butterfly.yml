@@ -93,9 +93,9 @@ katex:
 favicon: /img/favicon.png
 
 # Avatar (頭像)
-avatar:
-  img: file:///Users/rachel/Library/Containers/com.tencent.xinWeChat/Data/Library/Application%20Support/com.tencent.xinWeChat/2.0b4.0.9/6fa8c98b35976e19c9f3dc5afaa1df96/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/6091678068711_.pic.jpg
-  effect: true
+avatar: https://images.shobserver.com/news/690_390/2021/8/16/e6407e43a68149fd87ad486533fd9ee2.jpeg
+  img: 
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
