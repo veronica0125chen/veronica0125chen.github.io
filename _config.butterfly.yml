@@ -14,14 +14,14 @@ menu:
   # About: /about/ || fas fa-heart
 
 nav:
-  logo: # image
+  logo: # image https://pic.pngsucai.com/00/55/38/8ad7f957cd674ecd.webp
   display_title: true
   fixed: false # fixed navigation bar
 
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -94,8 +94,8 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  img: file:///Users/rachel/Library/Containers/com.tencent.xinWeChat/Data/Library/Application%20Support/com.tencent.xinWeChat/2.0b4.0.9/6fa8c98b35976e19c9f3dc5afaa1df96/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/6091678068711_.pic.jpg
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
